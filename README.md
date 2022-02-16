@@ -28,7 +28,7 @@ pip install transformers seqeval ptvsd
 | Luo   | Perez Ogayo, Verrah Otiende |
 | Naija Pidgin | Orevaoghene Ahia, Kelechi Ogueji, Adewale	Akinfaderin, Aremu Adeola Jr., Iroro Orife, Temi Oloyede, Samuel Abiodun Oyerinde, Victor Akinode   |
 | Swahili | Catherine Gitau, Verrah Otiende, Davis David, Clemencia Siro, Yvonne Wambui, Gerald Muriuki  |
-| Wolof | [Abdoulaye Diallo](https://github.com/abdoulsn), [Thierno Ibrahim Diop](https://github.com/bayethiernodiop), and [Derguene Mbaye](https://github.com/DerXter), Samba Ngom, Mouhamadane Mboup  |
+| Wolof | [Abdoulaye Diallo](https://github.com/abdoulsn), [Thierno Ibrahim Diop](https://github.com/bayethiernodiop), [Derguene Mbaye](https://github.com/DerXter), Samba Ngom and [Mouhamadane Mboup](https://github.com/Mouhamadane)  |
 | Yorùbá | David Adelani, Mofetoluwa Adeyemi, Jesujoba Alabi, Tosin Adewumi, Ayodele Awokoya |
 
 If you make use of this dataset, please cite us:
